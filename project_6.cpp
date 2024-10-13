@@ -1,5 +1,5 @@
 #include <iostream> //I can't push the whole console application for some reason, so here's its code.
-#include <windows.h>
+#include <windows.h> //Change for commit
 
 using namespace std;
 
@@ -51,7 +51,7 @@ int main() {
         case 9: cout << "дев'ять навчальних завдань"; break;
         }
         cout << endl;
-    }
+    } 
 
     return 0;
 }
